@@ -1,1 +1,2 @@
-# OpenCV-practice
+# OpenCV-basics
+Learn openCV bacics.
